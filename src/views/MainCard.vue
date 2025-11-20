@@ -125,6 +125,7 @@
               <span v-if="index < config.professions.length - 1">、</span>
             </span>
           </p>
+        </div> 
 
         <!-- 外链按钮 -->
         <div class="linkBox card">
@@ -142,8 +143,8 @@
 
     <div class="footer">
       <p>
-        ©2025 Quenan |
-        <a href="https://github.com/QNquenan/Simple-Homepage">仓库</a>
+       ©2025 Kinou |
+    <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener">苏ICP备2023047556号</a>
       </p>
     </div>
   </div>
