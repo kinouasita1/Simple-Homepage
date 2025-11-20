@@ -172,7 +172,6 @@
 <script setup>
 import config from "../config/config.json";
 import linkBtns from "../config/linkBtn.json";
-<!-- 删除注释 import techStack from "../config/techStack.json" ;-->
 import todo from "../config/todo.json";
 import typewriter from "../config/typewriter.json";
 import { Icon } from "@iconify/vue";
