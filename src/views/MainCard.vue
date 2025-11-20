@@ -144,7 +144,7 @@
           <Icon icon="carbon:quotes" width="16" height="16" />
           <Typewriter :text="typewriter" />
           <Icon icon="ph:quotes-fill" width="16" height="16" />
-        </div>
+        </div> 删除后面的-->
 
         <!-- 外链按钮 -->
         <div class="linkBox card">
