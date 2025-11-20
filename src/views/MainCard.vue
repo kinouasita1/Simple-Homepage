@@ -126,26 +126,6 @@
             </span>
           </p>
 
-          <!-- 技术栈 （恢复删除-删除-删除>）
-          <h3>我的一些技术栈🫡</h3>
-          <div class="techStack">
-            <div
-              v-for="(i, index) in techStack.techStack"
-              :key="index"
-              class="techItem"
-              :data-name="i.name"
-            >
-              <Icon :icon="i.icon" width="40" height="40" />
-            </div>
-          </div>
-        </div>
-
-        <div class="typew card">
-          <Icon icon="carbon:quotes" width="16" height="16" />
-          <Typewriter :text="typewriter" />
-          <Icon icon="ph:quotes-fill" width="16" height="16" />
-        </div> 删除后面的-->
-
         <!-- 外链按钮 -->
         <div class="linkBox card">
           <link-btn
