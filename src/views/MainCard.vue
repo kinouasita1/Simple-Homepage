@@ -125,8 +125,8 @@
               <span v-if="index < config.professions.length - 1">、</span>
             </span>
           </p>
-<!
-          <!-- 技术栈 -->
+
+          <!-- 技术栈 （恢复删除--删除>）
           <h3>我的一些技术栈🫡</h3>
           <div class="techStack">
             <div
@@ -145,7 +145,7 @@
           <Typewriter :text="typewriter" />
           <Icon icon="ph:quotes-fill" width="16" height="16" />
         </div>
--->
+
         <!-- 外链按钮 -->
         <div class="linkBox card">
           <link-btn
